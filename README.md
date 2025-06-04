@@ -124,7 +124,7 @@ Software Engineer with 5 years of experience coding and delivering technology so
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="300" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=kayqueasilveira&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 </p>
